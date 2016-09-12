@@ -95,7 +95,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         //Original url http://myschooldining.com/RockhurstHighSchool/calendarWeek
-        let url = "https://tannerstechtips.com"
+        let url = "https://google.com"
         post(url, params: getDateParams(), successHandler: {(response) in self.updateWebview(response)});
     }
     
