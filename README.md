@@ -1,1 +1,2 @@
-# Gap_Work
+# Gap Work
+Git repo for Gap Work iOS app
